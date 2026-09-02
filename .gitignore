@@ -2,3 +2,4 @@ out/
 *.class
 make_doc.py
 sources.txt
+lib/
