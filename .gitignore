@@ -3,3 +3,12 @@ out/
 make_doc.py
 sources.txt
 lib/
+push.ps1
+src/
+database.sql
+compile.bat
+run.bat
+launch.bat
+run.ps1
+README.md
+Assignment_Submission.docx
